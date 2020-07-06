@@ -1,6 +1,6 @@
 # What is this ?
 
-A simple library to check responsive for web base on standard breakpoints
+A simple library to check responsive for web base on standard breakpoints < 768 for mobile, < 1024 for tablet, < 1280 for large tablet, > 1280 for desktop, > 1440 for large desktop.
 
 # Installation
 
