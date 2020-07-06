@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "react-responsive-web.js",
+  "repository": "https://github.com/evondev/react-responsive-web",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

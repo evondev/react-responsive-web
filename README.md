@@ -1,6 +1,6 @@
 # What is this ?
 
-A simple lib to truncate text with ellipsis
+A simple library to check responsive for web base on standard breakpoints
 
 # Installation
 
