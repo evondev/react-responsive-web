@@ -1,0 +1,20 @@
+{
+  "name": "react-responsive-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "react-responsive-web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "responsive",
+    "responsive",
+    "detect",
+    "react",
+    "detect",
+    "responsive"
+  ],
+  "author": "evondev",
+  "license": "ISC"
+}
